@@ -11,7 +11,7 @@ Projet Data Science S6
 
 Ce programme a été réalisé dans le cadre de ma formation à Polytech Annecy-Chambéry 
 
-Ce programme est construit a partir d'une librairie de webscraping (jsoup)
+Ce programme est construit a partir d'une librairie de webscraping ( jsoup )
 
 L'objectif est de récupérer les informations de chaque jeux mit en ventese sur le site web EpicGameStore,
 
